@@ -1,3 +1,8 @@
+### 分类算法原理
+## 一、SVM算法
+### 1.原理
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tingting32/social-network-analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
