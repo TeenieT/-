@@ -1,6 +1,8 @@
-### 分类算法原理
+# 分类算法原理
 ## 一、SVM算法
 ### 1.原理
+
+https://blog.csdn.net/v_july_v/article/details/7624837
 
 
 ## Welcome to GitHub Pages
